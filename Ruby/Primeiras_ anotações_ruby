@@ -1,0 +1,11 @@
+rails new projetoTeste ------>cria a pasta
+
+rails s -b 0.0.0.0 -------> sobe a aplicação
+
+gem list ---> lista todas as gem
+
+gem list (palavra chave)---> lista todas as gem pesquisadas localmente
+
+gem list (palavra chave) --remote  -> lista todas as gem pesquisadas remotamente
+
+gem list (palavra chave) --remote --all -> lista todas as gem pesquisadas remotamente em todas as suas versões
